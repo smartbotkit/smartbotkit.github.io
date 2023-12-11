@@ -4,9 +4,7 @@ title: Privacy
 permalink: /privacy/
 ---
 
-# Privacy Policy
-
-Below we would like to explain to you how your personal data is processed when visiting this website.
+In our privacy policy below, we would like to explain to you how your personal data is processed when visiting this website.
 
 Responsible within the meaning of the GDPR is:
 
@@ -33,7 +31,7 @@ The contact address of GitHub Inc. is:
 > San Francisco, CA 94107  
 > United States of America  
 
-GitHub Inc. is the recipient of your personal data. Their server location is USA.
+GitHub Inc. is the recipient of your personal data. Their servers are located in the USA.
 
 Further information on objection and removal options against GitHub can be found at [https://docs.github.com](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement#github-pages).
 
