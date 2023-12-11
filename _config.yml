@@ -31,7 +31,14 @@ minima:
 
   # Generate social links in footer.
   social_links:
-    - { platform: github,         user_url: "https://github.com/smartbotkit" }
+    - platform: github
+      user_url: "https://github.com/smartbotkit" 
+    - platform: ude  
+      user_url: "https://www.nes.uni-due.de"  
+      title: Universität Duisburg-Essen
+    - platform: locoslab  
+      user_url: "https://www.locoslab.com"  
+      title: LocosLab GmbH
 
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
