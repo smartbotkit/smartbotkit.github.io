@@ -1,12 +1,2 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="400px" height="398px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 412.88 411.94"
- xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <style type="text/css">
-    .fil0 {fill:#1A9B9F;fill-rule:nonzero}
-  </style>
- </defs>
- <g id="layer">
-  <path class="fil0" d="M206.44 411.94l-206.44 0 0 -205.51c0,-117.68 88.14,-206.43 205.02,-206.43 120.44,0 207.86,86.42 207.86,205.5 0,119.61 -86.82,206.44 -206.44,206.44zm-133.75 -72.69l133.75 0c78.75,0 133.75,-55 133.75,-133.75 0,-79.43 -54.32,-132.82 -135.17,-132.82 -77.92,0 -132.33,55.01 -132.33,133.75l0 132.82z"/>
- </g>
-</svg>
+<path d="M15.98 29.79l-13.84 0 0 -13.78c0,-7.89 5.91,-13.84 13.75,-13.84 8.07,0 13.93,5.79 13.93,13.78 0,8.02 -5.82,13.84 -13.84,13.84l0 0zm-8.97 -4.87l8.97 0c5.28,0 8.97,-3.69 8.97,-8.97 0,-5.33 -3.64,-8.91 -9.06,-8.91 -5.23,0 -8.88,3.69 -8.88,8.97l0 8.91z"/>
+  
